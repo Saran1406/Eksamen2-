@@ -1,0 +1,28 @@
+  footer {
+    background-color: #78786f;
+  }
+
+  h5 {
+    color: orange;
+  }
+
+  .box {
+    background-color: #78786f;
+    color: orange;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .box h3 {
+    color: white;
+  }
+
+  .box p {
+    font-size: 1.3rem;
+  }
+  
+  
+
+  
+    
